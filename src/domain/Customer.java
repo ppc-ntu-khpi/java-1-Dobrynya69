@@ -1,7 +1,3 @@
-![README](Solution/advanced.png)
-
-#### Класс Customer
-```java
 package domain;
 
 public class Customer {
@@ -47,5 +43,3 @@ public class Customer {
     }
     
 }
-
-```
